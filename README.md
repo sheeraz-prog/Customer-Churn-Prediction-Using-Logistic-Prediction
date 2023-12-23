@@ -1,4 +1,4 @@
-## 2. Customer Churn Prediction
+## Customer Churn Prediction
 
 🔍 **Objective:** Predict customer churn to proactively manage customer retention.
 
